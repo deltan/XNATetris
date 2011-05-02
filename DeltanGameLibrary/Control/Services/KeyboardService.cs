@@ -23,7 +23,7 @@ namespace deltan.XNALibrary.Control.Services
         public IDictionary<Keys, int> RepeatIntervalFrame { get; set; }
         
         /// <summary>
-        /// 前回のキーの状態
+        /// 前回のキーの状態 
         /// </summary>
         private KeyboardState _lastKeyboardState;
 
