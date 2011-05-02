@@ -1,0 +1,5 @@
+X:\Projects\XNATetris\Pipeline\bin\x86\Debug\Pipeline.dll
+X:\Projects\XNATetris\Pipeline\bin\x86\Debug\Pipeline.pdb
+X:\Projects\XNATetris\Pipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Projects\XNATetris\Pipeline\obj\x86\Debug\Pipeline.dll
+X:\Projects\XNATetris\Pipeline\obj\x86\Debug\Pipeline.pdb

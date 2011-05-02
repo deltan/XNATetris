@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="Pipeline.TextMessageDescription">
+    <FontDescription>
+      <Reference>#External1</Reference>
+    </FontDescription>
+    <Message>
+      <Reference>#External2</Reference>
+    </Message>
+    <DiscardMessage>false</DiscardMessage>
+  </Asset>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Microsoft.Xna.Framework.Content.Pipeline.Graphics.FontDescription">MyFont.spritefont</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="string[]">MessageText.txt</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

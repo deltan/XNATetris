@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="string[]">
+    <Item>こんにちはー</Item>
+    <Item>お元気ですかー</Item>
+    <Item></Item>
+    <Item>おげんきでーす</Item>
+    <Item>いえい</Item>
+    <Item></Item>
+    <Item>ばあい</Item>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,1 @@
+X:\Projects\XNATetris\DeltanGameLibrary\Content\obj\x86\Debug\ResolveAssemblyReference.cache

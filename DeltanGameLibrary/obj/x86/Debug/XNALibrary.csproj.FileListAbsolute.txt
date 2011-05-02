@@ -1,0 +1,6 @@
+X:\Projects\XNATetris\DeltanGameLibrary\bin\x86\Debug\XNALibrary.dll
+X:\Projects\XNATetris\DeltanGameLibrary\bin\x86\Debug\XNALibrary.pdb
+X:\Projects\XNATetris\DeltanGameLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Projects\XNATetris\DeltanGameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+X:\Projects\XNATetris\DeltanGameLibrary\obj\x86\Debug\XNALibrary.dll
+X:\Projects\XNATetris\DeltanGameLibrary\obj\x86\Debug\XNALibrary.pdb
