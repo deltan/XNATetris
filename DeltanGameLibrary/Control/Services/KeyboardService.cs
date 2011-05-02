@@ -13,7 +13,7 @@ namespace deltan.XNALibrary.Control.Services
     public class KeyboardService
     {
         /// <summary>
-        /// 最初にRepeatフラグがtrueになってから、2回目にRepeatフラグがtrueになるまでの時間（フレーム数）
+        /// 最初にRepeatフラグがtrueになってから、2回目にRepeatフラグがtrueになるまでの時間（フレーム数）。
         /// </summary>
         public IDictionary<Keys, int> RepeatLatencyFrame { get; set; }
         
