@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Xna.Framework;
@@ -51,7 +51,7 @@ namespace deltan.XNATetris
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            base.Window.Title = "�ł邽��XNA�ĂƂ肷";
+            base.Window.Title = "でるたんXNAてとりす";
 
             SceneManager.SetSceneInitialiser(new SceneCondition("title", "basic"), new TitleSceneInitialiser(this));          
             SceneManager.SetSceneInitialiser(new SceneCondition("tetris", "basic"), new TetrisSceneInitialiser(this));
