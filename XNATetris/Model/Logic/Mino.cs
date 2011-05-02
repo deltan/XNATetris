@@ -22,8 +22,6 @@ namespace deltan.XNATetris.Model.Logic
             {
                 _minoAngleNumber = value;
 
-
-
                 if (_minoAngleNumber < 0)
                 {
                     _minoAngleNumber = MinoBlocks.Count - 1;
